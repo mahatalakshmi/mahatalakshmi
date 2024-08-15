@@ -1,5 +1,5 @@
 # Mahata Lakshmi
-# About Me:
+About Me:
 I’m an enthusiastic student with a passion for Machine Learning (ML) and Deep Learning (DL). My journey in this field has been driven by a deep curiosity about how AI can transform various industries. I’ve had the opportunity to dive into a range of exciting projects and research:
 Exploring innovative techniques and models to solve complex problems and push the boundaries of what’s possible with AI.
 Building and deploying applications that harness the power of AI to tackle real-world challenges.
